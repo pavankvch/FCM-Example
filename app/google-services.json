@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "680516484650",
+    "firebase_url": "https://fcm-messaging-3e3eb.firebaseio.com",
+    "project_id": "fcm-messaging-3e3eb",
+    "storage_bucket": "fcm-messaging-3e3eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680516484650:android:7188840ec9bf6f1e",
+        "android_client_info": {
+          "package_name": "com.example.sundar.cloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680516484650-f4v2af45u5br157bk4jnef08jj9fqc0h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sundar.cloudmessaging",
+            "certificate_hash": "A8D2C3ECA1A59BE8AB8D1385FC6C4D268CC22ADD"
+          }
+        },
+        {
+          "client_id": "680516484650-55lvhh4qq31nr4at1lfdjs2nqh82t716.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARPCUECjX_YZ0xOvlaiiKbBO8_gZra-J0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680516484650-55lvhh4qq31nr4at1lfdjs2nqh82t716.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
